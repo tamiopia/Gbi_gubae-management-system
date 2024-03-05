@@ -38,7 +38,7 @@ The Gebigubae community faces challenges in effectively managing information, co
 
 ## Methodology
 
-The system is developed using [programming language] and [framework/library]. The database is designed with [database management system], ensuring data integrity and security. The user interface prioritizes simplicity and accessibility.
+The system is developed using java. The database is designed with [database management system], ensuring data integrity and security. The user interface prioritizes simplicity and accessibility.
 
 ## Database
 
